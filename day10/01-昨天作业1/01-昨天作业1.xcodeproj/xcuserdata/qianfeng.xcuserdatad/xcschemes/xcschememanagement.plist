@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>01-昨天作业1.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>02-昨天作业2.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>03-plist文件.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>04-归档.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>05-解析XML文件.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>BCAD96EC000001740059E461</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>BCAD9707000003E90059E461</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>BCAD972300000CD80059E461</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>BCAD97331BEC4EF10059E461</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>BCAD98131BEC7E650059E461</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "3591c5e8-e9a7-0410-8541-8ba97d4d9666++2756" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "3591c5e8-e9a7-0410-8541-8ba97d4d9666++2756" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "2C521E37-3C27-48DC-AE05-1491F3C360B2",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "3591c5e8-e9a7-0410-8541-8ba97d4d9666++2756" : "01-%E6%98%A8%E5%A4%A9%E4%BD%9C%E4%B8%9A1\/05-%E8%A7%A3%E6%9E%90XML%E6%96%87%E4%BB%B6\/GData\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "01-昨天作业1",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "01-昨天作业1.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/172.18.8.55\/ios\/iPhone-PocoFood",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3591c5e8-e9a7-0410-8541-8ba97d4d9666++2756"
+    }
+  ]
+}

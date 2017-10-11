@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>01-周末作业.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>02-分类.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>03-匿名分类.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>04-数组排序(SEL).xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>BC6940551BE74DBA00E706D0</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>BCA94D031BE6F3DA00E47BD0</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>BCA94D1B1BE7125900E47BD0</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>BCA94D3A1BE73D9100E47BD0</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
